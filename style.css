@@ -1,0 +1,13 @@
+img {
+    width: 200px;
+}
+body {
+    text-align: center;
+    font-family: 'Times' ;
+    color: black;
+}
+.rainbow-text {
+    background-image:linear-gradient(to left, violet, indigo, blue, green, yellow, orange, 
+    -webkit-background-clip: text;
+    color: transparent;
+}
